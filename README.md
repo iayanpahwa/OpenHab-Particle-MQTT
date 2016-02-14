@@ -1,3 +1,6 @@
+Original Project Link: http://makezine.com/projects/building-a-home-automation-system-with-openhab-to-control-leds-wirelessly/
+
+
 This project is an extension of RGB Neopixel strip control using OpenHab, MQTT binding and Mosquitto MQTT broker by Make Magazine as a weekend project series.
 The original project is based on ESP8266 wifi module and since I dont have one around I decided to port this project on Particle Photon WiFi development module and using MQTT library.
 

@@ -1,3 +1,16 @@
+/*** 
+
+Particle-Photon sketch to control RGB LED strips over the wifi local network using OpenHAb
+Author: Ayan Pahwa
+Date  : February-14
+Place : New Delhi
+
+***/
+
+
+
+
+
 //Importing Necessary Libraries
 //If Using Neopixel strip instead of traditional RGB strip also import the following library
 //#include "neopixel/neopixel.h"
